@@ -1,0 +1,25 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/hodler_64_64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/hodler.png",
+        "location": "Danang, Vietnam",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "https://t.me/hodlerstakepool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "https://github.com/sirhung1993/hodler-pool"
+        },
+        
+        "about": {
+            "me": "Trust in Cardano Community. try to build a better Cardano eco-system. Trip to a better future.",
+            "server": "Host in Digital Ocean"
+        }
+    },
+    
+    "telegram-admin-handle": {
+        "0": "@hungbv2"
+    }
+}
