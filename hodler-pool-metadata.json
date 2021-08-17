@@ -1,7 +1,2 @@
-{ 
-    "name": "Fund",
-    "description": "In general, a bit of our income is allocated to this pool.\nThe mission is maintain a sustainable pension fund for our parents without inflation.\nWe hope that it could be a good retirement plans :D.\nThere is a portion of margin will be funded to the charity/social projects (voted in our channels).\nWe need your help us to make the world better. \nThanks for joining with us.\n Please visit https://github.com/sirhung1993/hodler-pool/wiki for more information!",
-    "ticker": "PENSION",
-    "homepage": "https://github.com/sirhung1993/hodler-pool/wiki",
-    "extended": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/extended.json"
-}
+{"name":"HODL 4 Future",
+"description":"Our saving is allocated to this - a sustainable pension fund w/o inflation.It could be a good retirement plan.There is a portion of margin will be funded to the charity/social projects.Your staking is our pleasure.Thanks for joining with us.","ticker":"4FUT","homepage":"https://github.com/sirhung1993/hodler-pool/wiki","extended": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/extended.json"}
