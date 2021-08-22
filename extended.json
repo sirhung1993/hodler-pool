@@ -6,11 +6,12 @@
         "social": {
             "twitter_handle": "",
             "telegram_handle": "https://t.me/hodlerstakepool",
-            "facebook_handle": "",
+            "facebook_handle": "https://fb.me/holdforfuture",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": "https://github.com/sirhung1993/hodler-pool"
+            "github_handle": "https://github.com/sirhung1993/hodler-pool",
+            "slack_handle" : "https://join.slack.com/t/slack-sgs1211/shared_invite/zt-uvbpnrkh-LlUVxXv_lUMOOH~Ok4lURA",
         },
         
         "about": {
