@@ -21,7 +21,7 @@
 
 - Flat fee will be used to maintain and upgrade the System.
 - Margin will be no more than 1% (if the pool is saturated, higher fee is required to encourage delegator move to next 4FUT pool).
-- A portition of margin will be funded to social/charity project.
+- A portion of margin will be funded to social/charity project.
 
 
 # Contact
