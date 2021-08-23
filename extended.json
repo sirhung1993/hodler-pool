@@ -10,16 +10,17 @@
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": "https://github.com/sirhung1993/hodler-pool",
-            "slack_handle" : "https://join.slack.com/t/slack-sgs1211/shared_invite/zt-uvbpnrkh-LlUVxXv_lUMOOH~Ok4lURA",
+            "github_handle": "https://github.com/sirhung1993/hodler-pool"
         },
         
         "about": {
             "me": "My mom retirement plan is partly depend on this project.\nTrust in Cardano Community.\nTry to build a better Cardano eco-system.\nTrip to a better future.",
-            "server": "Host in Digital Ocean"
+            "server": "Host in Digital Ocean - 4CPU/8GB per node -> 1 node for relay - 1 node for block producer"
         }
     },
-    
+    "my-pool-ids": {
+        "0": "44580017128bf1b0d734f12320805c92afff296e0d00dfdd4c39732b"
+    },
     "telegram-admin-handle": {
         "0": "@hungbv2",
         "1": "@tomdevvn",

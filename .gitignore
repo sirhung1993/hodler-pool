@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+
+# Docker file
+docker
