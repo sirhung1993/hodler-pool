@@ -25,5 +25,19 @@
         "0": "@hungbv2",
         "1": "@tomdevvn",
         "2": "@tmanh17"
-    }
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "4FUT Relay 1",
+                "type": "relay",
+                "key": "27c43f150f3ba4e0dd0ea82d42b82a73"
+            },
+            "1": {
+                "name": "4FUT Producer 1",
+                "type": "bp",
+                "key": "46c5f13364afc92963f6d0463ad2f3f5"
+            }
+        }
+    } 
 }
