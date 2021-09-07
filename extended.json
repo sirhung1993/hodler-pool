@@ -5,12 +5,12 @@
         "location": "Danang, Vietnam",
         "social": {
             "twitter_handle": "",
-            "telegram_handle": "https://t.me/hodlerstakepool",
-            "facebook_handle": "https://fb.me/holdforfuture",
+            "telegram_handle": "hodlerstakepool",
+            "facebook_handle": "holdforfuture",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": "https://github.com/sirhung1993/hodler-pool"
+            "github_handle": "sirhung1993/hodler-pool"
         },
         
         "about": {
@@ -22,9 +22,9 @@
         "0": "44580017128bf1b0d734f12320805c92afff296e0d00dfdd4c39732b"
     },
     "telegram-admin-handle": {
-        "0": "@hungbv2",
-        "1": "@tomdevvn",
-        "2": "@tmanh17"
+        "0": "hungbv2",
+        "1": "tomdevvn",
+        "2": "tmanh17"
     },
     "adapools_ext": {
         "prometheus": {
