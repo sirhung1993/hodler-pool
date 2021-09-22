@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/401k_64_64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/401k.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/VNA_logo_64_64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/sirhung1993/hodler-pool/main/VNA_logo.png",
         "location": "Danang, Vietnam",
         "social": {
             "twitter_handle": "",
@@ -14,7 +14,7 @@
         },
         
         "about": {
-            "me": "There is a Special Offer for loyalty and big delegators. If you have a lot of ADA and don't want to operate a Stake Pool. Please contact us!",
+            "me": "Join us at https://www.facebook.com/groups/cardanovietnam",
             "server": "Host in Digital Ocean - 4CPU/8GB per node -> 1 node for relay - 1 node for block producer"
         }
     },
@@ -24,17 +24,18 @@
     "telegram-admin-handle": {
         "0": "hungbv2",
         "1": "tomdevvn",
-        "2": "tmanh17"
+        "2": "tmanh17",
+        "3": "lesyhach"
     },
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "4FUT Relay 1",
+                "name": "VNA Relay 1",
                 "type": "relay",
                 "key": "27c43f150f3ba4e0dd0ea82d42b82a73"
             },
             "1": {
-                "name": "4FUT Producer 1",
+                "name": "VNA Producer 1",
                 "type": "bp",
                 "key": "46c5f13364afc92963f6d0463ad2f3f5"
             }
