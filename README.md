@@ -1,11 +1,11 @@
-# 4FUT Pool Overview
+# VNA Pool Overview
 
 - Initial fee is ZERO, there is no increase in fee until the pool get 5M ADA staked.
 - All reward will be keeped in the pool until it reachs 100K ADA in pledge.
 - Flat fee (fixed cost) is always 340 ADA (network pre-definition).
 - Stake Pool Operators have experience in System Operations/Maintainance
 - Dynamic fee/margin is competitive (current margin is 0%)
-- Dynamic fee/margin will be adjusted by saturation level ( if the pool nearly saturated, the fee will be hight -> move to nex 4FUT Pool)
+- Dynamic fee/margin will be adjusted by saturation level ( if the pool nearly saturated, the fee will be hight -> move to nex VNA Pool)
 
 # System Overview
 
@@ -20,7 +20,7 @@
 # Our Commitments
 
 - Flat fee will be used to maintain and upgrade the System.
-- Margin will be no more than 1% (if the pool is saturated, higher fee is required to encourage delegator move to next 4FUT pool).
+- Margin will be no more than 1% (if the pool is saturated, higher fee is required to encourage delegator move to next VNA pool).
 - A portion of margin will be funded to social/charity project.
 
 
